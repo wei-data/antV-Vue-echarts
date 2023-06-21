@@ -1,0 +1,119 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true
+  },
+  "exclude": [
+    "node_modules"
+  ],
+    "data":  [
+      {
+        "class": "评价管理",
+        "ID": 1,
+        "content": "不错不错，很喜欢",
+        "name": "美克家居雪山系列",
+        "state": "审核通过",
+        "member": "Sakura",
+        "time": "2022-6-4 8:00"
+      },
+      {
+        "ID": 2,
+        "content": "不错不错，很不喜欢",
+        "name": "现代简约头层进口小黄牛皮",
+        "state": "审核通过",
+        "member": "Sakura",
+        "time": "2022-8-10 2:00"
+      },{
+        "class": "评价管理",
+        "ID": 3,
+        "content": "不错不错，很喜欢",
+        "name": "美克家居雪山系列",
+        "state": "审核通过",
+        "member": "Sakura",
+        "time": "2022-6-4 8:00"
+      },
+      {
+        "ID": 4,
+        "content": "不错不错，很不喜欢",
+        "name": "现代简约头层进口小黄牛皮",
+        "state": "审核通过",
+        "member": "Sakura",
+        "time": "2022-8-10 2:00"
+      }
+    ],
+    "list": [
+      {
+        "class": "平台管理",
+        "ID": 1,
+        "name": "沙发",
+        "additive": "小杨",
+        "time": "2022-6-6 9:00"
+      },
+      {
+        "ID": 2,
+        "name": "床",
+        "additive": "柳念",
+        "time": "2022-4-6 10:00"
+      },
+      {
+        "ID": 3,
+        "name": "冰箱",
+        "additive": "威少",
+        "time": "2022-2-6 10:00"
+      },
+      {
+        "ID": 4,
+        "name": "椅子",
+        "additive": "乔丹",
+        "time": "2022-2-6 10:00"
+      }
+    ],
+    "assemble": [
+      {
+        "class": "用户管理",
+        "ID": 1001,
+        "picture": "头像",
+        "name": "九木德",
+        "number": 18973701703,
+        "region": "河北省-廊坊市",
+        "state": "正常",
+        "amount": "￥1000",
+        "quantity": 20,
+        "time": "2021-08-01"
+      },
+      {
+        "ID": 1002,
+        "picture": "头像",
+        "name": "九木德",
+        "number": 18973701703,
+        "region": "河北省-廊坊市",
+        "state": "锁定",
+        "amount": "￥1000",
+        "quantity": 20,
+        "time": "2021-08-01"
+      }
+    ],
+    "Authority": [
+    {
+      "class": "权限管理",
+      "ID": 1,
+      "AccountNumber": "ZHANG",
+      "name": "张",
+      "number": 15379547892,
+      "Position": "销售",
+      "Authority": "评价权限",
+      "time": "2022-01-02"
+    },
+    {
+      "ID": 2,
+      "AccountNumber": "ZHANG",
+      "name": "范",
+      "number": 15379485762,
+      "Position": "运营",
+      "Authority": "权限管理",
+      "time": "2022-06-02"
+    }
+  ]
+}
+

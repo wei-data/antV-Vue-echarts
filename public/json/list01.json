@@ -1,0 +1,84 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true
+  },
+  "exclude": [
+    "node_modules"
+  ],
+    "data":  [
+      {
+        "key": "TK202207061",
+        "commodity": "天行者三人位沙发",
+        "price": "1234x1",
+        "quantity": "1234x1",
+        "amount": "1234",
+        "state": "待付款",
+        "CreationTime": "2022-07-06 10:00:00"
+      },
+      {
+        "key": "TK202207062",
+        "commodity": "洛林菲勒转角沙发",
+        "price": "1234x1",
+        "quantity": "1234x1",
+        "amount": "1234",
+        "state": "待发货",
+        "CreationTime": "2022-07-06 10:00:00"
+      },
+      {
+        "key": "TK202207063",
+        "commodity": "歌迪左扶手组合沙发",
+        "price": "1234x1",
+        "quantity": "1234x1",
+        "amount": "1234",
+        "state": "已取消",
+        "CreationTime": "2022-07-06 10:00:00"
+      },
+      {
+        "key": "TK202207064",
+        "commodity": "Milantti右转角沙发",
+        "price": "1234x1",
+        "quantity": "1234x1",
+        "amount": "1234",
+        "state": "已完成",
+        "CreationTime": "2022-07-06 10:00:00"
+      },
+      {
+        "key": "TK202207065",
+        "commodity": "yvvyCo27三人沙发",
+        "price": "1234x1",
+        "quantity": "1234x1",
+        "amount": "1234",
+        "state": "已取消",
+        "CreationTime": "2022-07-06 10:00:00"
+      },
+      {
+        "key": "TK202207066",
+        "commodity": "诺美蒂斯转角沙发",
+        "price": "1234x1",
+        "quantity": "1234x1",
+        "amount": "1234",
+        "state": "待发货",
+        "CreationTime": "2022-07-06 10:00:00"
+      },
+      {
+        "key": "TK202207067",
+        "commodity": "源木时光转角沙发",
+        "price": "1234x1",
+        "quantity": "1234x1",
+        "amount": "1234",
+        "state": "待发货",
+        "CreationTime": "2022-07-06 10:00:00"
+      },
+      {
+        "key": "TK202217067",
+        "commodity": "源木时光转角沙发",
+        "price": "1234x1",
+        "quantity": "1234x1",
+        "amount": "12554",
+        "state": "全部订单",
+        "CreationTime": "2022-07-07 10:00:00"
+      }
+    ]
+}

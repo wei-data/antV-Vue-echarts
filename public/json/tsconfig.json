@@ -1,0 +1,52 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true
+  },
+  "exclude": [
+    "node_modules"
+  ],
+    "data": [
+        {
+            "key": 1,
+            "name": "香榭豪庭",
+            "price": 1320.00,
+            "num": 158,
+            "style": "极简"
+        },
+      {
+        "key": 2,
+        "name": "诺美帝诗",
+        "price": 2199.00,
+        "num": 158,
+        "style": "轻奢"
+      },{
+        "key": 3,
+        "name": "YvvY",
+        "price": 1699.00,
+        "num": 158,
+        "style": "现代"
+      },
+      {
+        "key": 4,
+        "name": "CBD",
+        "price": 1320.00,
+        "num": 158,
+        "style": "现代极简"
+      },{
+        "key": 5,
+        "name": "品匠坊",
+        "price": 1999.00,
+        "num": 158,
+        "style": "现代北欧"
+      },
+      {
+        "key": 6,
+        "name": "原木时光",
+        "price": 3014.00,
+        "num": 158,
+        "style": "新中式"
+      }
+    ]
+}
